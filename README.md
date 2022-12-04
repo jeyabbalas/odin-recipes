@@ -1,5 +1,7 @@
 # Mortimer & Whitehouse Gone Fishing Recipes
 
+The project site is live at https://jeyabbalas.github.io/odin-recipes/
+
 This is the first project in [the Odin Project's](https://www.theodinproject.com/) Foundations curriculum. It is designed to reinforce the basic concepts in HTML and CSS.
 
 I created a recipes website containing the heart-healthy recipes by Bob Mortimer— a brilliant comedian, Fuji 9 aficionado, and top chef— from his awesome TV show "Gone Fishing". The TV show is co-hosted by Paul Whitehouse, another legendary comedian. I got the specific recipes from their book ["Gone Fishing"](https://smile.amazon.com/Mortimer-Whitehouse-Gone-Fishing/dp/1788702948/). The clips from the show containing the recipes are linked below. Enjoy!
